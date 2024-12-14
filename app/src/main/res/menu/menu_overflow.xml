@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pedido"
+        android:title="@string/pedido" />
+
+    <item android:id="@+id/productos"
+        android:title="@string/productos" />
+
+    <item android:id="@+id/mis_compras"
+        android:title="@string/compras" />
+
+    <item android:id="@+id/nosotros"
+        android:title="@string/nosotros" />
+
+    <item android:id="@+id/cerrar_sesion"
+        android:title="@string/cerrar_sesion" />
+</menu>
